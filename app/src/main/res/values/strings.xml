@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProfileLayout</string>
+    <string name="enrique">Enrique Iglesias</string>
+    <string name="about">Artist</string>
+    <string name="following">Following</string>
+    <string name="followingNumber">5000</string>
+    <string name="follower">Followers</string>
+    <string name="followerNumber">10.3M</string>
+</resources>
